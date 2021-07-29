@@ -1,0 +1,17 @@
+{
+  "name": "The Librarian",
+  "version": "1.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "dotenv": "^8.2.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./src/bot.js"
+  },
+  "keywords": [],
+  "author": "Naan",
+  "license": "ISC"
+}
